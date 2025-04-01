@@ -1,4 +1,4 @@
-# Install script for directory: /Users/francescarutherford/CLionProjects/M1AP-frutherf
+# Install script for directory: /Users/francescarutherford/CLionProjects/Input-Validation
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "/Users/francescarutherford/CLionProjects/M1AP-frutherf/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/Users/francescarutherford/CLionProjects/Input-Validation/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/francescarutherford/CLionProjects/M1AP-frutherf/cmake-build-debug"
+			"value" : "/Users/francescarutherford/CLionProjects/Input-Validation/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/francescarutherford/CLionProjects/M1AP-frutherf/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/francescarutherford/CLionProjects/Input-Validation/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/francescarutherford/CLionProjects/M1AP-frutherf"
+			"value" : "/Users/francescarutherford/CLionProjects/Input-Validation"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -819,7 +819,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "M1AP"
+			"value" : "Input-Validation"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1118,7 +1118,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "M1AP_BINARY_DIR",
+			"name" : "Input-Validation_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1127,10 +1127,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/francescarutherford/CLionProjects/M1AP-frutherf/cmake-build-debug"
+			"value" : "/Users/francescarutherford/CLionProjects/Input-Validation/cmake-build-debug"
 		},
 		{
-			"name" : "M1AP_IS_TOP_LEVEL",
+			"name" : "Input-Validation_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1142,7 +1142,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "M1AP_SOURCE_DIR",
+			"name" : "Input-Validation_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/francescarutherford/CLionProjects/M1AP-frutherf"
+			"value" : "/Users/francescarutherford/CLionProjects/Input-Validation"
 		}
 	],
 	"kind" : "cache",

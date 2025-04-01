@@ -3,4 +3,4 @@ project(Input-Validation)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(M1AP main.cpp)
+add_executable(Input-Validation main.cpp)
